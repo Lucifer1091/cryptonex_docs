@@ -3,7 +3,7 @@ Cryptonex is a platform for naïve users to trade cryptocurrency without any ris
 
 ## Distinguishing Features Added in CRYPTONEX:
 
-- App Offers Kid Mode and Expert Mode Both.
+- It offers both Kid Mode and Expert Mode for different users.
 - Offers support for both Web and Mobile app.
 - You can use this platform without coding skills.
 - Cryptonex helps you to gain maximized profits from trading.
